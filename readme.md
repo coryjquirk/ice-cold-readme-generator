@@ -23,9 +23,9 @@ Run the program and a README will be created in the same directory. Download a R
 ## License:
 This is covered under the following license:  The Unlicense
 ## Questions:
-Contact me here with questions:
+Contact me here with questions...
 
-GitHub: github.com/coryjquirk
+GitHub: https://github.com/coryjquirk
 
 Email: coryjquirk@gmail.com
         
