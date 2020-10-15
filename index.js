@@ -81,54 +81,16 @@ ${response.test}
 ## License:
 This is covered under the following license:  ${response.license}
 ## Questions:
-Contact me here with questions:
+Contact me here with questions...
 
-GitHub: github.com/${response.username}
+GitHub: https://github.com/${response.username}
 
 Email: ${response.email}
         `;
     }
-    fs.writeFile("README.md", makeReadme(), function(err) {
-        if (err) {
-            return console.log(err);
-        }
-        
-        
-    });
+  fs.writeFile("README.md", makeReadme(), function(err) {
+    if (err) {
+        return console.log(err);
+    }
   });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// ** starter code **
-// array of questions for user
-const questions = [
-
-];
-
-// function to write README file
-function writeToFile(fileName, data) {
-}
-
-// function to initialize program
-function init() {
-
-}
-
-// function call to initialize program
-init();
+});
