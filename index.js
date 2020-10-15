@@ -58,10 +58,8 @@ inquirer
     function makeReadme (){
         return `
 # ${response.title}
-=================node
 
 # Table of Contents
-=================
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -71,25 +69,18 @@ inquirer
 * [Questions](#questions)
 
 ## Description:
-=================
 ${response.description}
 ## Installation:
-=================
 ${response.installation}
 ## Usage: 
-=================
 ${response.usage}
 ## Contributing:
-=================
 ${response.contributors}
 ## Tests:
-=================
 ${response.test}
 ## License:
-=================
 "This is covered under the following license:  ${response.license}
 ## Questions:
-=================
 Contact me here with questions: 
 GitHub: github.com/${response.username}
 Email: ${response.email}
