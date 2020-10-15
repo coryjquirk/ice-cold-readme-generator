@@ -1,29 +1,31 @@
 
-# fewdf
+# Ice Cold README Generator
 
 # Table of Contents
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributors)
+* [Contributing](#contributing)
 * [Tests](#tests)
 * [License](#license)
 * [Questions](#questions)
 
 ## Description:
-fewfew
+Here is a README generated with the Ice Cold README Generator. This program uses the command line and Node.js modules to generate a custom README for any coding project.
 ## Installation:
-fewfewf
+Just download code.
 ## Usage: 
-fewfew
+Open the directory in the command line and enter "node index.js" to execute the program.
 ## Contributing:
-fewfwef
+me, myself, and I.
 ## Tests:
-fewfwef
+Run the program and a README will be created in the same directory. Download a README preview extension for your IDE if you feel so inclined.
 ## License:
-"This is covered under the following license:  
+This is covered under the following license:  The Unlicense
 ## Questions:
-Contact me here with questions: 
-GitHub: github.com/fewfewfewf
-Email: fewfewfewf
+Contact me here with questions:
+
+GitHub: github.com/coryjquirk
+
+Email: coryjquirk@gmail.com
         
