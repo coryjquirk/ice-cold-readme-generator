@@ -63,7 +63,7 @@ inquirer
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributors)
+* [Contributing](#contributing)
 * [Tests](#tests)
 * [License](#license)
 * [Questions](#questions)
@@ -79,10 +79,12 @@ ${response.contributors}
 ## Tests:
 ${response.test}
 ## License:
-"This is covered under the following license:  ${response.license}
+This is covered under the following license:  ${response.license}
 ## Questions:
-Contact me here with questions: 
+Contact me here with questions:
+
 GitHub: github.com/${response.username}
+
 Email: ${response.email}
         `;
     }

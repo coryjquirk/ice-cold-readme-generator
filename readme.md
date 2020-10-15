@@ -11,11 +11,11 @@
 * [Questions](#questions)
 
 ## Description:
-Here is a README generated with the Ice Cold README Generator. This program uses the command line and Node.js modules to generate a custom README for any coding project.
+Here is a sample README generated with the Ice Cold README Generator. This program uses the command line and Node.js to prompt the user for information on their coding project, and generate a custom README.
 ## Installation:
-Just download code.
+Just download code and open the directory in your terminal.
 ## Usage: 
-Open the directory in the command line and enter "node index.js" to execute the program.
+Enter "node index.js" to execute the program.
 ## Contributing:
 me, myself, and I.
 ## Tests:
