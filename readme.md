@@ -1,3 +1,4 @@
+<img src="https://coryjquirk.github.io/ice-cold-readme-generator/demo.gif" alt="demo screencap gif">
 
 # Ice Cold README Generator
 
