@@ -1,7 +1,7 @@
 
 # Ice Cold README Generator
 
-# Table of Contents
+## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -13,13 +13,13 @@
 ## Description:
 Here is a sample README generated with the Ice Cold README Generator. This program uses the command line and Node.js to prompt the user for information on their coding project, and generate a custom README.
 ## Installation:
-Just download code and open the directory in your terminal.
+Download this repo, run `npm install inquirer` to install the necessary Node packages.
 ## Usage: 
-Enter "node index.js" to execute the program.
+Run `node index.js` in the command line to execute the program.
 ## Contributing:
-me, myself, and I.
+Me, myself, and I.
 ## Tests:
-Run the program and a README will be created in the same directory. Download a README preview extension for your IDE if you feel so inclined.
+The README.md file will appear in the folder after you've answered all the questions. Preview the file with an extension for your IDE if you so desire.
 ## License:
 This is covered under the following license:  The Unlicense
 ## Questions:
